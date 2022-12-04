@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nouraldeen
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on android development
+- 👀 I’m a software developer at MRCU
+- 🌱 I’m currently an android developmer
+- 💞️ I’m looking to collaborate on Software Development
+- I am student at cairo university facaulty of engineering
 
 <!---
 nouraldeen1/nouraldeen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
